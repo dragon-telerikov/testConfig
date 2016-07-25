@@ -1,5 +1,5 @@
 {
-  "DisplayName": "GOSHO",
+  "DisplayName": "GOSHO1",
   "CorePlugins": [
     "cordova-plugin-battery-status",
     "cordova-plugin-camera",
